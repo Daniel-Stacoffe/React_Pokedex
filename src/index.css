@@ -13,6 +13,9 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+figcaption {
+  font-style: bold;
+}
 a {
   font-weight: 500;
   color: #646cff;
